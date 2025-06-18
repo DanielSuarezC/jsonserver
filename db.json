@@ -1,0 +1,944 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "nationalId": 45896231,
+      "name": "Admin",
+      "lastName": "Admin",
+      "phoneNumber": 3207108160,
+      "email": "admin@gmail.com",
+      "username": "admin",
+      "password": "$2a$12$xT9mj6iXPRMxBBVahsYSOmgUIGyTaKOdNvnHSjILOlnkee.UODK",
+      "enabled": true,
+      "accountNonExpired": true,
+      "accountNonLocked": true,
+      "credentialsNonExpired": true,
+      "affiliationStatus": "ACTIVE"
+    },
+    {
+      "id": 2,
+      "nationalId": 362417890,
+      "name": "Alexa",
+      "lastName": "Rodríguez Hernández",
+      "phoneNumber": 3156765546,
+      "email": "alexarh23@gmail.com",
+      "username": "alexarh23",
+      "password": "$2a$12$sukFVnISeTUQfoC8dSq3o.B7DxbNbaB8o0RG80HzZGX2aGoBFC2e",
+      "enabled": true,
+      "accountNonExpired": true,
+      "accountNonLocked": true,
+      "credentialsNonExpired": true,
+      "affiliationStatus": "ACTIVE"
+    },
+    {
+      "id": 3,
+      "nationalId": 2825369181,
+      "name": "Jane",
+      "lastName": "Doe",
+      "phoneNumber": 3125467789,
+      "email": "janedoe23@gmail.com",
+      "username": "janedoe23",
+      "password": "$2a$12$zP1ULlAY5njAOePhuwDMOsqVsldVVY.xQP7KpFK3MZNUpHiZOnS",
+      "enabled": true,
+      "accountNonExpired": true,
+      "accountNonLocked": true,
+      "credentialsNonExpired": true,
+      "affiliationStatus": "ACTIVE"
+    },
+    {
+      "id": 4,
+      "nationalId": 915720836,
+      "name": "John",
+      "lastName": "Smith",
+      "phoneNumber": 3143456789,
+      "email": "johnsmith13@gmail.com",
+      "username": "johnsmith13",
+      "password": "$2a$12$Mo9UIrlHjSCgqO25LoErbOUb9rF5L7ROsbbxGOPvxd07ovTFx7yC",
+      "enabled": true,
+      "accountNonExpired": true,
+      "accountNonLocked": true,
+      "credentialsNonExpired": true,
+      "affiliationStatus": "ACTIVE"
+    },
+    {
+      "id": 5,
+      "nationalId": 1038475920,
+      "name": "Emily",
+      "lastName": "Johnson",
+      "phoneNumber": 3135551234,
+      "email": "emilyjohnson32@gmail.com",
+      "username": "emilyjohnson32",
+      "password": "$2a$12$HRxXsOwG7gvJE4d5GO6oc.0b.k4DZbASzH5dNdf2syVNhs6JPxPG",
+      "enabled": true,
+      "accountNonExpired": true,
+      "accountNonLocked": true,
+      "credentialsNonExpired": true,
+      "affiliationStatus": "ACTIVE"
+    },
+    {
+      "id": 6,
+      "nationalId": 837465219,
+      "name": "Carlos",
+      "lastName": "Gómez",
+      "phoneNumber": 3101234567,
+      "email": "carlosgomez@gmail.com",
+      "username": "carlosgomez",
+      "password": "$2a$12$t9HxJCjmlUcR4ADzweHAOxYwBqeHL0QXejDUyAY5hvZiyylWT42",
+      "enabled": true,
+      "accountNonExpired": true,
+      "accountNonLocked": true,
+      "credentialsNonExpired": true,
+      "affiliationStatus": "ACTIVE"
+    },
+    {
+      "id": 7,
+      "nationalId": 5728094631,
+      "name": "María",
+      "lastName": "Pérez",
+      "phoneNumber": 3112345678,
+      "email": "mariaperez@gmail.com",
+      "username": "mariaperez",
+      "password": "$2a$12$gboLs3R3sPceHsMiuz2KuEUE2.TGr4Rzoi16zdn1Viq6dB5ds9Oq",
+      "enabled": true,
+      "accountNonExpired": true,
+      "accountNonLocked": true,
+      "credentialsNonExpired": true,
+      "affiliationStatus": "ACTIVE"
+    },
+    {
+      "id": 8,
+      "nationalId": 14738295,
+      "name": "Luis",
+      "lastName": "Martínez",
+      "phoneNumber": 3123456789,
+      "email": "luismartinez@gmail.com",
+      "username": "luismartinez",
+      "password": "$2a$12$uY3w8n9LPi0QcZX5WVA0LuYy6xJaYuLaIjUZ3l4hs2j3de0595aA.",
+      "enabled": true,
+      "accountNonExpired": true,
+      "accountNonLocked": true,
+      "credentialsNonExpired": true,
+      "affiliationStatus": "ACTIVE"
+    },
+    {
+      "id": 9,
+      "nationalId": 803126547,
+      "name": "Ana",
+      "lastName": "López",
+      "phoneNumber": 3134567890,
+      "email": "analopez@gmail.com",
+      "username": "analopez",
+      "password": "$2a$12$ovK99s5AM9Lta04X2HCSPOJDhDbC0Fl6cOQDz6atg6uxc.mm9TKy",
+      "enabled": true,
+      "accountNonExpired": true,
+      "accountNonLocked": true,
+      "credentialsNonExpired": true,
+      "affiliationStatus": "ACTIVE"
+    },
+    {
+      "id": 10,
+      "nationalId": 926147308,
+      "name": "Jorge",
+      "lastName": "Hernández",
+      "phoneNumber": 3145678901,
+      "email": "jorgehernandez@gmail.com",
+      "username": "jorgehernandez",
+      "password": "$2a$12$1Z5y7DT2e1.t5a9lyQfeiOxRKUAptHbOKCF.jSMS90Y3um4ZQ18ya",
+      "enabled": true,
+      "accountNonExpired": true,
+      "accountNonLocked": true,
+      "credentialsNonExpired": true,
+      "affiliationStatus": "ACTIVE"
+    },
+    {
+      "id": 11,
+      "nationalId": 582631749,
+      "name": "Sofía",
+      "lastName": "Ramírez",
+      "phoneNumber": 3156789012,
+      "email": "sofiaramirez@gmail.com",
+      "username": "sofiaramirez",
+      "password": "$2a$12$9u75clDPiMUQ0lX.0mPhWuMfwKMfPMOT0OnNhn9b542oBoyGznIG",
+      "enabled": true,
+      "accountNonExpired": true,
+      "accountNonLocked": true,
+      "credentialsNonExpired": true,
+      "affiliationStatus": "ACTIVE"
+    },
+    {
+      "id": 12,
+      "nationalId": 719836542,
+      "name": "Diego",
+      "lastName": "Torres",
+      "phoneNumber": 3167890123,
+      "email": "diegotorres@gmail.com",
+      "username": "diegotorres",
+      "password": "$2a$12$jE8QgClI205YOJJXJAI3eLGLciCzO8kMNjKrTpDi0OcD02P1fuxi",
+      "enabled": true,
+      "accountNonExpired": true,
+      "accountNonLocked": true,
+      "credentialsNonExpired": true,
+      "affiliationStatus": "ACTIVE"
+    },
+    {
+      "id": 13,
+      "nationalId": 2093471568,
+      "name": "Laura",
+      "lastName": "Vargas",
+      "phoneNumber": 3178901234,
+      "email": "lauravargas@gmail.com",
+      "username": "lauravargas",
+      "password": "$2a$12$6.FSgk.vRcaT1RrndM0WODZzzD9.3hA7L0HAh9zcdHftb2udIO",
+      "enabled": true,
+      "accountNonExpired": true,
+      "accountNonLocked": true,
+      "credentialsNonExpired": true,
+      "affiliationStatus": "ACTIVE"
+    },
+    {
+      "id": 14,
+      "nationalId": 17348596,
+      "name": "Andrés",
+      "lastName": "Castro",
+      "phoneNumber": 3189012345,
+      "email": "andrescastro@gmail.com",
+      "username": "andrescastro",
+      "password": "$2a$12$1qrCeiEg7TPwFvPnBzSLn.ufvZfQWPDJDhbdHD1dw2aJHX5k5U.me",
+      "enabled": true,
+      "accountNonExpired": true,
+      "accountNonLocked": true,
+      "credentialsNonExpired": true,
+      "affiliationStatus": "ACTIVE"
+    },
+    {
+      "id": 15,
+      "nationalId": 369285147,
+      "name": "Paula",
+      "lastName": "Morales",
+      "phoneNumber": 3190123456,
+      "email": "paulamorales@gmail.com",
+      "username": "paulamorales",
+      "password": "$2a$12$RgN4BgevHegbBR8PFGQiuGZma8EkQesH7NBJEKmgwdEVpTkKk5dK",
+      "enabled": true,
+      "accountNonExpired": true,
+      "accountNonLocked": true,
+      "credentialsNonExpired": true,
+      "affiliationStatus": "ACTIVE"
+    },
+    {
+      "id": 16,
+      "nationalId": 1284759635,
+      "name": "Ricardo",
+      "lastName": "Rojas",
+      "phoneNumber": 3201234567,
+      "email": "ricardorojas@gmail.com",
+      "username": "ricardorojas",
+      "password": "$2a$12$FWkEkLpskzdySS3cKRC30e2F5leedbXu9rkUPsOvGSZoWe.AOcP2.",
+      "enabled": true,
+      "accountNonExpired": true,
+      "accountNonLocked": true,
+      "credentialsNonExpired": true,
+      "affiliationStatus": "ACTIVE"
+    },
+    {
+      "id": 17,
+      "nationalId": 684295137,
+      "name": "Valeria",
+      "lastName": "Cruz",
+      "phoneNumber": 3212345678,
+      "email": "valeriacruz@gmail.com",
+      "username": "valeriacruz",
+      "password": "$2a$12$u440miFxH8CEc6jteBYYBOVfZeCJO6W2k5o4vVl66bOwJ0dylyja",
+      "enabled": true,
+      "accountNonExpired": true,
+      "accountNonLocked": true,
+      "credentialsNonExpired": true,
+      "affiliationStatus": "ACTIVE"
+    },
+    {
+      "id": 18,
+      "nationalId": 83719526,
+      "name": "Fernando",
+      "lastName": "Mendoza",
+      "phoneNumber": 3223456789,
+      "email": "fernandomendoza@gmail.com",
+      "username": "fernandomendoza",
+      "password": "$2a$12$7kilkzszTdhL.AH980nzOaHv1J7jSFDLT93nwHTFSPpmSrFXY3q",
+      "enabled": true,
+      "accountNonExpired": true,
+      "accountNonLocked": true,
+      "credentialsNonExpired": true,
+      "affiliationStatus": "ACTIVE"
+    },
+    {
+      "id": 19,
+      "nationalId": 9041236572,
+      "name": "Camila",
+      "lastName": "Ortiz",
+      "phoneNumber": 3234567890,
+      "email": "camilaortiz@gmail.com",
+      "username": "camilaortiz",
+      "password": "$2a$12$U7Bvwfe7RmlLGHLuNHU6.1oPjQ9FVQHkB3GgUwxsPL6KgEXkOUkG",
+      "enabled": true,
+      "accountNonExpired": true,
+      "accountNonLocked": true,
+      "credentialsNonExpired": true,
+      "affiliationStatus": "ACTIVE"
+    },
+    {
+      "id": 20,
+      "nationalId": 593718246,
+      "name": "Sebastián",
+      "lastName": "Reyes",
+      "phoneNumber": 3245678901,
+      "email": "sebastianreyes@gmail.com",
+      "username": "sebastianreyes",
+      "password": "$2a$12$rPwgshdH9fXc8n.Q4CzwK.cjUUyjLk8ZitA603dEaHlgB8ysMqh92",
+      "enabled": true,
+      "accountNonExpired": true,
+      "accountNonLocked": true,
+      "credentialsNonExpired": true,
+      "affiliationStatus": "ACTIVE"
+    },
+    {
+      "id": 21,
+      "nationalId": 781946523,
+      "name": "Isabella",
+      "lastName": "Silva",
+      "phoneNumber": 3256789012,
+      "email": "isabellasilva@gmail.com",
+      "username": "isabellasilva",
+      "password": "$2a$12$fVTkJOW2l5.nvDPMyt3lOZ2fndEgEmY79ufLPLpZdCvCj3ha2iq",
+      "enabled": true,
+      "accountNonExpired": true,
+      "accountNonLocked": true,
+      "credentialsNonExpired": true,
+      "affiliationStatus": "ACTIVE"
+    },
+    {
+      "id": 22,
+      "nationalId": 3487521695,
+      "name": "Mateo",
+      "lastName": "García",
+      "phoneNumber": 3267890123,
+      "email": "mateogarcia@gmail.com",
+      "username": "mateogarcia",
+      "password": "$2a$12$d3PQ8aLP14o84fUUa2qesObL4JVbv3oUl9gLtp8oFuZTX.P0Bbe",
+      "enabled": true,
+      "accountNonExpired": true,
+      "accountNonLocked": true,
+      "credentialsNonExpired": true,
+      "affiliationStatus": "ACTIVE"
+    },
+    {
+      "id": 23,
+      "nationalId": 208945631,
+      "name": "Daniela",
+      "lastName": "Navarro",
+      "phoneNumber": 3278901234,
+      "email": "danielanavarro@gmail.com",
+      "username": "danielanavarro",
+      "password": "$2a$12$epD8Bm1COETa4ph8hqjj.fErLjsB2Lj4s4L.LvTnUrhM.tPyQE5W",
+      "enabled": true,
+      "accountNonExpired": true,
+      "accountNonLocked": true,
+      "credentialsNonExpired": true,
+      "affiliationStatus": "ACTIVE"
+    },
+    {
+      "id": 24,
+      "nationalId": 618473025,
+      "name": "Santiago",
+      "lastName": "Paredes",
+      "phoneNumber": 3289012345,
+      "email": "santiagoparedes@gmail.com",
+      "username": "santiagoparedes",
+      "password": "$2a$12$P64xH52xFRSGsqJBrZhu9uZlGS366Zudy96eM4CPMzqmNHyQXFeom",
+      "enabled": true,
+      "accountNonExpired": true,
+      "accountNonLocked": true,
+      "credentialsNonExpired": true,
+      "affiliationStatus": "ACTIVE"
+    },
+    {
+      "id": 25,
+      "nationalId": 741852963,
+      "name": "Lucía",
+      "lastName": "Peña",
+      "phoneNumber": 3290123456,
+      "email": "luciapeña@gmail.com",
+      "username": "luciapeña",
+      "password": "$2a$12$b7LyF4LTtdYJo1o.62pU0O8zxB6Nf57tE4253xAzORnBzMkhBw13W",
+      "enabled": true,
+      "accountNonExpired": true,
+      "accountNonLocked": true,
+      "credentialsNonExpired": true,
+      "affiliationStatus": "ACTIVE"
+    },
+    {
+      "id": 26,
+      "nationalId": 1359724681,
+      "name": "Alejandro",
+      "lastName": "Salazar",
+      "phoneNumber": 3301234567,
+      "email": "alejandrosalazar@gmail.com",
+      "username": "alejandrosalazar",
+      "password": "$2a$12$zSFDek.sK5872Ji3H6NqOuNIY2AzPlSVtQysm7N3jiLuUBBD04PO",
+      "enabled": true,
+      "accountNonExpired": true,
+      "accountNonLocked": true,
+      "credentialsNonExpired": true,
+      "affiliationStatus": "ACTIVE"
+    }
+  ],
+  "clubs": [
+    {
+      "id": 1,
+      "club_administrator_id": 2,
+      "coach_id": 7,
+      "player_id": 12,
+      "name": "Club de Ajedrez Central",
+      "address": "Calle Principal 123",
+      "phone_number": "1234567890",
+      "enabled": true,
+      "creation_date": "2025-06-15 12:19:46"
+    },
+    {
+      "id": 2,
+      "club_administrator_id": 3,
+      "coach_id": 8,
+      "player_id": 13,
+      "name": "Club de Ajedrez Torre Blanca",
+      "address": "Avenida Torre 456",
+      "phone_number": "0987654321",
+      "enabled": true,
+      "creation_date": "2025-06-15 12:19:46"
+    },
+    {
+      "id": 3,
+      "club_administrator_id": 4,
+      "coach_id": 9,
+      "player_id": 14,
+      "name": "Club de Ajedrez Gambito",
+      "address": "Calle Gambito 789",
+      "phone_number": "1122334455",
+      "enabled": true,
+      "creation_date": "2025-06-15 12:19:46"
+    },
+    {
+      "id": 4,
+      "club_administrator_id": 5,
+      "coach_id": 10,
+      "player_id": 15,
+      "name": "Club de Ajedrez Rey Negro",
+      "address": "Avenida Rey 101",
+      "phone_number": "2233445566",
+      "enabled": true,
+      "creation_date": "2025-06-15 12:19:46"
+    },
+    {
+      "id": 5,
+      "club_administrator_id": 6,
+      "coach_id": 11,
+      "player_id": 16,
+      "name": "Club de Ajedrez Peón Dorado",
+      "address": "Calle Peón 202",
+      "phone_number": "3344556677",
+      "enabled": true,
+      "creation_date": "2025-06-15 12:19:46"
+    }
+  ],
+  "club_administrators": [
+    {
+      "id": 2,
+      "club_id": 1
+    },
+    {
+      "id": 3,
+      "club_id": 2
+    },
+    {
+      "id": 4,
+      "club_id": 3
+    },
+    {
+      "id": 5,
+      "club_id": 4
+    },
+    {
+      "id": 6,
+      "club_id": 5
+    }
+  ],
+  "coaches": [
+    {
+      "id": 7,
+      "club_id": 1
+    },
+    {
+      "id": 8,
+      "club_id": 2
+    },
+    {
+      "id": 9,
+      "club_id": 3
+    },
+    {
+      "id": 10,
+      "club_id": 4
+    },
+    {
+      "id": 11,
+      "club_id": 5
+    }
+  ],
+  "players": [
+    {
+      "id": 12,
+      "club_id": 1
+    },
+    {
+      "id": 13,
+      "club_id": 2
+    },
+    {
+      "id": 14,
+      "club_id": 3
+    },
+    {
+      "id": 15,
+      "club_id": 4
+    },
+    {
+      "id": 16,
+      "club_id": 5
+    },
+    {
+      "id": 17,
+      "club_id": 1
+    },
+    {
+      "id": 18,
+      "club_id": 2
+    },
+    {
+      "id": 19,
+      "club_id": 3
+    },
+    {
+      "id": 20,
+      "club_id": 4
+    },
+    {
+      "id": 21,
+      "club_id": 5
+    }
+  ],
+  "roles": [
+    {
+      "id": 1,
+      "name": "ROLE_ADMIN"
+    },
+    {
+      "id": 2,
+      "name": "ROLE_CLUB_ADMIN"
+    },
+    {
+      "id": 3,
+      "name": "ROLE_COACH"
+    },
+    {
+      "id": 4,
+      "name": "ROLE_PLAYER"
+    },
+    {
+      "id": 5,
+      "name": "ROLE_USER"
+    }
+  ],
+  "authorities": [
+    {
+      "id": 1,
+      "name": "AUTHORITY_VIEW_ALL"
+    },
+    {
+      "id": 2,
+      "name": "AUTHORITY_MANAGE_MEMBERS"
+    },
+    {
+      "id": 3,
+      "name": "AUTHORITY_MANAGE_CLUB"
+    },
+    {
+      "id": 4,
+      "name": "AUTHORITY_VIEW_MEMBERS"
+    },
+    {
+      "id": 5,
+      "name": "AUTHORITY_MANAGE_TRAINING"
+    },
+    {
+      "id": 6,
+      "name": "AUTHORITY_VIEW_PROFILE"
+    },
+    {
+      "id": 7,
+      "name": "AUTHORITY_VIEW_TOURNAMENTS"
+    },
+    {
+      "id": 8,
+      "name": "AUTHORITY_READ"
+    },
+    {
+      "id": 9,
+      "name": "AUTHORITY_WRITE"
+    }
+  ],
+  "users_roles": [
+    {
+      "user_id": 1,
+      "role_id": 1
+    },
+    {
+      "user_id": 2,
+      "role_id": 2
+    },
+    {
+      "user_id": 3,
+      "role_id": 2
+    },
+    {
+      "user_id": 4,
+      "role_id": 2
+    },
+    {
+      "user_id": 5,
+      "role_id": 2
+    },
+    {
+      "user_id": 6,
+      "role_id": 2
+    },
+    {
+      "user_id": 7,
+      "role_id": 3
+    },
+    {
+      "user_id": 8,
+      "role_id": 3
+    },
+    {
+      "user_id": 9,
+      "role_id": 3
+    },
+    {
+      "user_id": 10,
+      "role_id": 3
+    },
+    {
+      "user_id": 11,
+      "role_id": 3
+    },
+    {
+      "user_id": 12,
+      "role_id": 4
+    },
+    {
+      "user_id": 13,
+      "role_id": 4
+    },
+    {
+      "user_id": 14,
+      "role_id": 4
+    },
+    {
+      "user_id": 15,
+      "role_id": 4
+    },
+    {
+      "user_id": 16,
+      "role_id": 4
+    },
+    {
+      "user_id": 17,
+      "role_id": 4
+    },
+    {
+      "user_id": 18,
+      "role_id": 4
+    },
+    {
+      "user_id": 19,
+      "role_id": 4
+    },
+    {
+      "user_id": 20,
+      "role_id": 4
+    },
+    {
+      "user_id": 21,
+      "role_id": 4
+    },
+    {
+      "user_id": 1,
+      "role_id": 5
+    },
+    {
+      "user_id": 2,
+      "role_id": 5
+    },
+    {
+      "user_id": 3,
+      "role_id": 5
+    },
+    {
+      "user_id": 4,
+      "role_id": 5
+    },
+    {
+      "user_id": 5,
+      "role_id": 5
+    },
+    {
+      "user_id": 6,
+      "role_id": 5
+    },
+    {
+      "user_id": 7,
+      "role_id": 5
+    },
+    {
+      "user_id": 8,
+      "role_id": 5
+    },
+    {
+      "user_id": 9,
+      "role_id": 5
+    },
+    {
+      "user_id": 10,
+      "role_id": 5
+    },
+    {
+      "user_id": 11,
+      "role_id": 5
+    },
+    {
+      "user_id": 12,
+      "role_id": 5
+    },
+    {
+      "user_id": 13,
+      "role_id": 5
+    },
+    {
+      "user_id": 14,
+      "role_id": 5
+    },
+    {
+      "user_id": 15,
+      "role_id": 5
+    },
+    {
+      "user_id": 16,
+      "role_id": 5
+    },
+    {
+      "user_id": 17,
+      "role_id": 5
+    },
+    {
+      "user_id": 18,
+      "role_id": 5
+    },
+    {
+      "user_id": 19,
+      "role_id": 5
+    },
+    {
+      "user_id": 20,
+      "role_id": 5
+    },
+    {
+      "user_id": 21,
+      "role_id": 5
+    },
+    {
+      "user_id": 22,
+      "role_id": 5
+    },
+    {
+      "user_id": 23,
+      "role_id": 5
+    },
+    {
+      "user_id": 24,
+      "role_id": 5
+    },
+    {
+      "user_id": 25,
+      "role_id": 5
+    },
+    {
+      "user_id": 26,
+      "role_id": 5
+    }
+  ],
+  "roles_authorities": [
+    {
+      "role_id": 1,
+      "authority_id": 1
+    },
+    {
+      "role_id": 1,
+      "authority_id": 2
+    },
+    {
+      "role_id": 1,
+      "authority_id": 3
+    },
+    {
+      "role_id": 1,
+      "authority_id": 4
+    },
+    {
+      "role_id": 1,
+      "authority_id": 5
+    },
+    {
+      "role_id": 1,
+      "authority_id": 6
+    },
+    {
+      "role_id": 1,
+      "authority_id": 7
+    },
+    {
+      "role_id": 1,
+      "authority_id": 9
+    },
+    {
+      "role_id": 2,
+      "authority_id": 2
+    },
+    {
+      "role_id": 2,
+      "authority_id": 3
+    },
+    {
+      "role_id": 2,
+      "authority_id": 4
+    }
+  ],
+  "events": [
+    {
+      "id": 1,
+      "name": "Entrenamiento Básico de Aperturas",
+      "description": "Sesión de entrenamiento enfocada en el estudio de aperturas clásicas",
+      "location": "Sala Principal - Club de Ajedrez Central",
+      "startDate": "2025-06-20T16:00:00",
+      "endDate": "2025-06-20T18:00:00",
+      "eventVisibility": "PRIVATE",
+      "maximumParticipants": 15
+    },
+    {
+      "id": 2,
+      "name": "Práctica de Finales",
+      "description": "Entrenamiento especializado en técnicas de finales de partida",
+      "location": "Sala de Estudios - Club Torre Blanca",
+      "startDate": "2025-06-22T14:30:00",
+      "endDate": "2025-06-22T16:30:00",
+      "eventVisibility": "PRIVATE",
+      "maximumParticipants": 12
+    },
+    {
+      "id": 3,
+      "name": "Análisis de Partidas Magistrales",
+      "description": "Estudio y análisis de partidas de grandes maestros",
+      "location": "Aula Magna - Club Gambito",
+      "startDate": "2025-06-25T18:00:00",
+      "endDate": "2025-06-25T20:00:00",
+      "eventVisibility": "PUBLIC",
+      "maximumParticipants": 20
+    },
+    {
+      "id": 4,
+      "name": "Tácticas Avanzadas",
+      "description": "Sesión intensiva de resolución de problemas tácticos",
+      "location": "Sala de Torneos - Club Rey Negro",
+      "startDate": "2025-06-27T17:00:00",
+      "endDate": "2025-06-27T19:00:00",
+      "eventVisibility": "PRIVATE",
+      "maximumParticipants": 10
+    },
+    {
+      "id": 5,
+      "name": "Preparación Psicológica",
+      "description": "Entrenamiento mental y preparación psicológica para competencias",
+      "location": "Sala de Conferencias - Club Peón Dorado",
+      "startDate": "2025-06-28T15:30:00",
+      "endDate": "2025-06-28T17:30:00",
+      "eventVisibility": "PRIVATE",
+      "maximumParticipants": 18
+    },
+    {
+      "id": 6,
+      "name": "Torneo Interno Mensual",
+      "description": "Torneo clasificatorio interno del club",
+      "location": "Salón Principal - Club de Ajedrez Central",
+      "startDate": "2025-07-05T09:00:00",
+      "endDate": "2025-07-05T18:00:00",
+      "eventVisibility": "PRIVATE",
+      "maximumParticipants": 32
+    },
+    {
+      "id": 7,
+      "name": "Copa Torre Blanca",
+      "description": "Torneo anual del club con participación abierta",
+      "location": "Complejo Deportivo Torre Blanca",
+      "startDate": "2025-07-12T10:00:00",
+      "endDate": "2025-07-12T19:00:00",
+      "eventVisibility": "PUBLIC",
+      "maximumParticipants": 64
+    },
+    {
+      "id": 8,
+      "name": "Entrenamiento Juvenil",
+      "description": "Sesión especial de entrenamiento para jugadores menores de 18 años",
+      "location": "Sala Juvenil - Club de Ajedrez Central",
+      "startDate": "2025-06-30T16:00:00",
+      "endDate": "2025-06-30T18:00:00",
+      "eventVisibility": "PRIVATE",
+      "maximumParticipants": 20
+    }
+  ],
+  "tournaments": [
+    {
+      "id": 6
+    },
+    {
+      "id": 7
+    }
+  ],
+  "trainings": [
+    {
+      "id": 1
+    },
+    {
+      "id": 2
+    },
+    {
+      "id": 3
+    },
+    {
+      "id": 4
+    },
+    {
+      "id": 5
+    },
+    {
+      "id": 8
+    }
+  ]
+
+}
